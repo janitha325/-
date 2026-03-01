@@ -64,21 +64,21 @@ module.exports = {
             name: 'cta_url',
             buttonParamsJson: JSON.stringify({
               display_text: 'Youtube',
-              url: config.social?.youtube || 'http://youtube.com/@mr_unique_hacker'
+              url: config.social?.youtube || 'https://youtube.com/@janiya-md?si=YrPJY2jZhYkTpN5H'
             })
           },
           {
             name: 'cta_url',
             buttonParamsJson: JSON.stringify({
               display_text: 'Visit Bot Repo',
-              url: config.social?.github || 'https://github.com/mruniquehacker'
+              url: config.social?.github || 'https://github.com/janitha325'
             })
           },
           {
             name: 'cta_url',
             buttonParamsJson: JSON.stringify({
               display_text: 'Join Channel',
-              url: 'https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A'
+              url: 'https://whatsapp.com/channel/0029Vb7eHNNGufIvUzQiBW39'
             })
           }
         ]
