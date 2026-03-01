@@ -4,19 +4,19 @@
 
 module.exports = {
     // Bot Owner Configuration
-    ownerNumber: ['91xxxxxxxxxxx','917023951514'], // Add your number without + or spaces (e.g., 919876543210)
-    ownerName: ['Knight Bot Mini', 'Professor'], // Owner names corresponding to ownerNumber array
+    ownerNumber: ['94706564978','94766960038'], // Add your number without + or spaces (e.g., 94766960038)
+    ownerName: ['𝖩𝖠𝖭𝖨𝖸𝖠 𝖬𝖣', '𝖩𝖠𝖭𝖨𝖸𝖠'], // Owner names corresponding to ownerNumber array
     
     // Bot Configuration
-    botName: 'Knight Bot Mini',
+    botName: '𝖩𝖠𝖭𝖨𝖸𝖠 𝖬𝖣',
     prefix: '.',
     sessionName: 'session',
     sessionID: process.env.SESSION_ID || '',
-    newsletterJid: '120363161513685998@newsletter', // Newsletter JID for menu forwarding
-    updateZipUrl: 'https://github.com/mruniquehacker/KnightBot-Mini/archive/refs/heads/main.zip', // URL to latest code zip for .update command
+    newsletterJid: '120363425330105126@newsletter', // Newsletter JID for menu forwarding
+    updateZipUrl: 'https://github.com/janitha325/-.git', // URL to latest code zip for .update command
     
     // Sticker Configuration
-    packname: 'Knight Bot Mini',
+    packname: '𝖩𝖠𝖭𝖨𝖸𝖠 𝖬𝖣',
     
     // Bot Behavior
     selfMode: false, // Private mode - only owner can use commands
@@ -81,9 +81,9 @@ module.exports = {
     
     // Social Links (optional)
     social: {
-      github: 'https://github.com/mruniquehacker',
-      instagram: 'https://instagram.com/yourusername',
-      youtube: 'http://youtube.com/@mr_unique_hacker'
+      github: 'https://github.com/janitha325',
+      instagram: 'https://www.instagram.com/janiya_x_sh?igsh=OHR6aThub2YybjN3',
+      youtube: 'https://youtube.com/@janiya-md?si=YrPJY2jZhYkTpN5H'
     }
 };
   
